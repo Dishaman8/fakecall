@@ -1,4 +1,4 @@
 # fakecall [CLI Version]
 # Note : Just For Fun
-# How To Run?
+# Hi  i am mustafa this is my first time to use github
 # Use Ur Brain!
